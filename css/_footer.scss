@@ -1,0 +1,52 @@
+.footer {
+  .bot {
+    background: $sec-color;
+    @media (max-width: 768px) {
+      .copy {
+        display: block;
+        text-align: center;
+        width: 100%;
+      }
+    }
+    .row {
+      display: flex;
+      width: 100%;
+      padding-top: 25px;
+      padding-bottom: 25px;
+      margin: 0 auto;
+      font-family: $main-font;
+      color: $white;
+      line-height: 1.6;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      .social {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        a {
+          margin: 0 10px;
+          font-size: 16px;
+          color: $white;
+          transition: 0.3s all;
+          @media (max-width: 480px) {
+            margin: 10px;
+          }
+          &:hover {
+            color: $main-color;
+          }
+          &:last-child {
+            margin-right: 0;
+          }
+          &:first-child {
+            margin-left: 0;
+          }
+        }
+        @media (max-width: 768px) {
+          width: 100%;
+          margin-top: 15px;
+          justify-content: center;
+        }
+      }
+    }
+  }
+}

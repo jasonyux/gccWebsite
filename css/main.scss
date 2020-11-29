@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/*------------------------------------------------------------------
+[ Table of contents ]
+
+1. Colors
+2. Preloader
+3. Google Fonts
+4. Typography
+5. Desktop menu
+6. Mobile menu
+7. Header
+    4.1 Default header
+    4.2 Mini header
+    4.3 Video header
+    4.4 Particles
+    4.5 Slider header
+    4.6 Page header
+8. Parallax section
+9. Scrollbar
+10. IE Message
+11. Up button
+12. Buttons
+13. Image Section
+14. Portfolio Section
+15. Testimonials Slider
+16. Team Section
+17. Promo section
+18. Services
+19. Blog Section
+20. About Section
+21. Counters
+22. Work section
+23. Prices
+24. Services
+25. Subcribe form
+26. Google Map
+27. Form
+28. Icons section
+29. 404 page
+30. Accordeon
+31. Portfolio single
+32. Blog
+    32.1 Pagination
+    32.2 Sidebar
+    33.3 Comments
+
+
+------------------------------------------------------------------ */
+
+// Colors
+$main: #6b6d6f;
+$sec-color: #ffffffe8;
+
+$grey: #eee;
+$dark_grey: #949599;
+
+$green: #5BD3BE;
+$black: #323336;
+$white: #fff;
+
+$main-color: #F5E401;
+$main-color: #ff1818fc;
+$main-color: #05afd1;
+
+/* Colors */
+.main-color {
+  color: $main-color;
+}
+
+.white {
+  color: $white;
+}
+
+body {
+  max-width: 2000px;
+  margin: 0 auto;
+  &.preload {
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+  }
+
+}
+
+@import "preloader.scss";
+@import "_typography.scss";
+@import "_header.scss";
+@import "_elements.scss";
+@import "_footer.scss";
+
+
+
+
+
