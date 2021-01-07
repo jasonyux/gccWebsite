@@ -1,14 +1,3 @@
-var info_list;
-
-fetch('../assets/e-board.json')
-  .then(res => res.json())
-  .then(data => {
-      info_list = data.e_board;
-      console.log("Success!", info_list);
-      insert_profiles();
-  })
-  .catch(err => console.log("fetch json failed", err))
-
 /* generates and returns a div element from info (image, name, position, description) */
 function create_profile(info){
   var profile_card = document.createElement("div");
@@ -47,9 +36,9 @@ function create_profile(info){
   return profile_card;
 }
 
-function insert_profiles() {
-  var teamGridDiv = document.getElementById("eboard-profile");
-  for(let info of info_list){
+export default function insert_profiles(containerID, list) {
+  var teamGridDiv = document.getElementById(containerID);
+  for(let info of list){
       teamGridDiv.appendChild(create_profile(info));
   }
 }
