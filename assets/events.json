@@ -1,0 +1,70 @@
+[
+    {
+        "name": "GCC Global Summit 2018", 
+        "type": [
+            "professional"
+        ], 
+        "image_url": "img/events/summit1.jpg",
+        "content_url": "gcc_events/portfolio-single.html"
+    },
+    {
+        "name": "Bitcoin Forum", 
+        "type": [
+            "professional",
+            "social"
+        ],  
+        "image_url": "img/events/bitcoin2.jpeg",
+        "content_url": "../gcc_events/portfolio-single.html"
+    },
+    {
+        "name": "Frisbee Bonding", 
+        "type": [
+            "social"
+        ], 
+        "image_url": "img/events/frisbee1.jpeg",
+        "content_url": "../gcc_events/portfolio-single.html"
+    },
+    {
+        "name": "Chinese Students at Columbia", 
+        "type": [
+            "social",
+            "cultural"
+        ], 
+        "image_url": "img/events/chinese1.JPG",
+        "content_url": "../gcc_events/portfolio-single.html"
+    },
+    {
+        "name": "Chinese Night Market", 
+        "type": [
+            "social",
+            "cultural"
+        ],
+        "image_url": "img/events/night1.JPG",
+        "content_url": "../gcc_events/portfolio-single.html"
+    },
+    {
+        "name": "GCC-CIC Panel", 
+        "type": [
+            "cultural"
+        ],
+        "image_url": "img/events/cic1.JPG",
+        "content_url": "../gcc_events/portfolio-single.html"
+    },
+    {
+        "name": "Mid-Autumn Festival", 
+        "type": [
+            "social",
+            "cultural"
+        ],
+        "image_url": "img/events/midautumn1.jpg",
+        "content_url": "../gcc_events/portfolio-single.html"
+    },
+    {
+        "name": "GCC Info Session", 
+        "type": [
+            "social"
+        ],
+        "image_url": "img/events/info2.jpeg",
+        "content_url": "../gcc_events/portfolio-single.html"
+    }
+]
