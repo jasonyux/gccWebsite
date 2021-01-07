@@ -1,0 +1,10 @@
+{
+    "e_board":[
+        {"role": "President", "name":"Shuyao Wang", "image":"img/members/Jack Shi - President.jpg", "description": "DESCRIPTION"},
+        {"role": "VP of Pre-professional Team", "name":"Yibing Chen", "image":"img/members/Jack Shi - President.jpg", "description": "DESCRIPTION"},
+        {"role": "VP of Social Team", "name":"Shuyao Wang", "image":"img/members/Jack Shi - President.jpg", "description": "DESCRIPTION"},
+        {"role": "VP of Media Team", "name":"Shuyao Wang", "image":"img/members/Jack Shi - President.jpg", "description": "DESCRIPTION"},
+        {"role": "VP of Internal Relations Team", "name":"Shuyao Wang", "image":"img/members/Jack Shi - President.jpg", "description": "DESCRIPTION"},
+        {"role": "Treasurer", "name":"James Wang", "image":"img/members/Jack Shi - President.jpg", "description": "DESCRIPTION"}
+    ]
+}
