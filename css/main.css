@@ -1204,7 +1204,7 @@ video::-webkit-media-controls-enclosure {
       justify-content: flex-start; }
     .portfolio-section .filters li {
       list-style-type: none;
-      margin: 15px;
+      margin: auto;
       margin-bottom: 0; }
       .portfolio-section .filters li a {
         text-decoration: none;
