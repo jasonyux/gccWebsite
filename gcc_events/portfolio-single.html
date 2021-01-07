@@ -107,9 +107,9 @@
 
 
 <header class="page-header parallax-section " data-stellar-background-ratio="0.5"
-        style="background-image: url(./img/park.jpg);">
+        style="background-image: url(../img/park.jpg);">
     <div class="container">
-        <h2 style="color: black;">GCC Event</h2>
+        <h2 style="color: black;" id="large-title">GCC Event</h2>
         <ul id="breadcrumbs" class="breadcrumbs">
             <li class="item-home">
                 <a class="bread-link bread-home" href="../index.html" title="Home" style="color: black;">Home</a>
@@ -126,7 +126,7 @@
 <section class="section portfolio-single">
     <div class="container">
         <div class="thumbnail">
-            <img src="http://via.placeholder.com/1280x720" alt="" class="img-responsive">
+            <img src="http://via.placeholder.com/1280x720" alt="" class="img-responsive" id="thumbnail">
         </div>
         <div class="row description">
             <div class="col-lg-4">
@@ -154,32 +154,26 @@
                 </div>
             </div>
             <div class="col-lg-8">
-                <h3 class="">Project Revival</h3>
-                <p>Perspiciatis unde omnis iste natus error sit voluptatem accus anum doloremque laudantium, totam rem
+                <h3 id="small-title">Project Revival</h3>
+                <p id="main-text">Perspiciatis unde omnis iste natus error sit voluptatem accus anum doloremque laudantium, totam rem
                     aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
                     explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
                     consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Cras tellus enim, sagittis aer
                     varius faucibus, molestie in dolor. Mauris molliadipisg elit, in vulputate est volutpat vitae.</p>
-                <h5>Maecenas volutpat</h5>
-                <p>Cras tellus enim, sagittis aer varius faucibus, molestie in dolor. Mauris molliadipisg elit, in
-                    vulputate est volutpat vitae. Pellentesque convallis nisl sit amet lacus luctus vel consequat ligula
-                    suscipit. Aliquam et metus sed tortor eleifend pretium non id urna. Fusce in augue leo, sed cursus
-                    nisl. Nullam vel tellus massa. Vivamus porttitor rutrum libero ac mattis. Aliquam congue malesuada
-                    mauris vitae dignissim.</p>
             </div>
             <div class="col-12">
                 <div class="work-navigation clearfix">
-                    <a href="#" class="work-prev"><span><i class="fa fa-angle-left"></i>Prev</span></a>
-                    <a href="#" class="work-all"><span>All</span></a>
-                    <a href="#" class="work-next"><span>Next<i class="fa fa-angle-right"></i></span></a>
+                    <a href="#" class="work-prev" id="prev-event"><span><i class="fa fa-angle-left"></i>Prev</span></a>
+                    <a href="../events.html" class="work-all"><span>All</span></a>
+                    <a href="#" class="work-next" id="next-event"><span>Next<i class="fa fa-angle-right"></i></span></a>
                 </div>
             </div>
             <div class="col-12">
                 <div class="related-projects">
                     <h3>Latest Projects</h3>
-                    <div class="row related-projects-flex">
+                    <div class="row related-projects-flex" id="latest-projects">
                         <div class="col-md-4 item">
-                            <a href="">  <img src="http://via.placeholder.com/1920x1080" alt=""></a>
+                            <a href=""> <img src="http://via.placeholder.com/1920x1080" alt=""></a>
                             <a href=""><h6>New Trends In Web Design</h6></a>
                         </div>
                         <div class="col-md-4 item">
@@ -240,5 +234,6 @@
 <script type='text/javascript'
         src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDzBGRd65iiIr-Ju6i5Z2vUQ0nx0F8NoKs&#038;'></script>
 <script src="../js/scripts.js"></script>
+<script src="../scripts/event_template.js"></script>
 </body>
 </html>

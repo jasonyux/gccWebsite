@@ -5,10 +5,10 @@
             "professional"
         ], 
         "image_url": "img/events/summit1.jpg",
-        "content_url": "gcc_events/portfolio-single.html"
+        "content_url": "../gcc_events/portfolio-single.html?timestamp=2020-01-01"
     },
     {
-        "name": "Bitcoin Forum", 
+        "name": "Bitcoin Forum",
         "type": [
             "professional",
             "social"
