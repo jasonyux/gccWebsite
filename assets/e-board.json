@@ -9,7 +9,7 @@
     ],
     "ocm":[
         {"role": "Social Team Member", "name":"Ryan Hou", "image":"img/members/Ryan Hou.JPG", "description": "Struggling to live through an age without indoor dining"},
-        {"role": "Social Team Member", "name":"Tim Lyu", "image":"img/members/Tim_Lyu.jpg", "description": "DESCRIPTION"},
+        {"role": "Social Team Member", "name":"Tim Lyu", "image":"img/members/Tim_Lyu.jpeg", "description": "DESCRIPTION"},
         {"role": "Social Team Member", "name":"Portial Wang", "image":"img/members/Portia Wang.jpg", "description": "DESCRIPTION"},
         {"role": "Social Team Member", "name":"April Lin", "image":"img/members/April Lin.jpeg", "description": "Lived in Jordan, UK, and US for school, April is attracted by arts and contemporary civilization from various cultrues. Recently, she starts to explore certain commodities‘ spot and futures markets of China. In her spare time, April does kpop, urban and contemporary dance; she sees dance as a means to discover life philosophy. "},
         {"role": "Social Team Member", "name":"Lorraine Jiang", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
@@ -33,7 +33,7 @@
         {"role": "Preprofessional Team Member", "name":"Tiffany Lau", "image":"img/members/Tiffany Lau.jpeg", "description": "Nobody's life is filled with perfect little moments. And if it were, they wouldn't be perfect little moments. They would just be normal. How would you ever know happiness if you never experienced downs?"},
         {"role": "Media Team Member", "name":"Amy Wang", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
         {"role": "Media Team Member", "name":"Alice Qin", "image":"img/members/Placeholder.jpg", "description": "Live in the sunshine, swim the sea, drink the wild air."},
-        {"role": "Media Team Member", "name":"Xinwan Zhang", "image":"img/members/Xinwan_Zhang_(Small).JPG", "description": "Fret not over the bygone, and the forward journey to take."},
+        {"role": "Media Team Member", "name":"Xinwan Zhang", "image":"img/members/Xinwan_Zhang_(Small).jpg", "description": "Fret not over the bygone, and the forward journey to take."},
         {"role": "Media Team Member", "name":"Alfred Sze", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
         {"role": "Internal/External Team Member", "name":"Venice Hartono", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
         {"role": "Internal/External Team Member", "name":"Melanie Gong", "image":"img/members/Melanie Gong.PNG", "description": "Every end is a new beginning."},
