@@ -4,8 +4,8 @@
         "type": [
             "professional"
         ], 
-        "image_url": "img/events/summit1.jpg",
-        "content_url": "../gcc_events/portfolio-single.html?timestamp=2020-01-01"
+        "image_url": "/cu/gcc/img/events/summit1.jpg",
+        "content_url": "gcc_events/portfolio-single.html?timestamp=2020-01-01"
     },
     {
         "name": "Bitcoin Forum",
@@ -13,16 +13,16 @@
             "professional",
             "social"
         ],  
-        "image_url": "img/events/bitcoin2.jpeg",
-        "content_url": "../gcc_events/portfolio-single.html"
+        "image_url": "/cu/gcc/img/events/bitcoin2.jpeg",
+        "content_url": "gcc_events/portfolio-single.html"
     },
     {
         "name": "Frisbee Bonding", 
         "type": [
             "social"
         ], 
-        "image_url": "img/events/frisbee1.jpeg",
-        "content_url": "../gcc_events/portfolio-single.html"
+        "image_url": "/cu/gcc/img/events/frisbee1.jpeg",
+        "content_url": "gcc_events/portfolio-single.html"
     },
     {
         "name": "Chinese Students at Columbia", 
@@ -30,8 +30,8 @@
             "social",
             "cultural"
         ], 
-        "image_url": "img/events/chinese1.JPG",
-        "content_url": "../gcc_events/portfolio-single.html"
+        "image_url": "/cu/gcc/img/events/chinese1.JPG",
+        "content_url": "gcc_events/portfolio-single.html"
     },
     {
         "name": "Chinese Night Market", 
@@ -39,16 +39,16 @@
             "social",
             "cultural"
         ],
-        "image_url": "img/events/night1.JPG",
-        "content_url": "../gcc_events/portfolio-single.html"
+        "image_url": "/cu/gcc/img/events/night1.JPG",
+        "content_url": "gcc_events/portfolio-single.html"
     },
     {
         "name": "GCC-CIC Panel", 
         "type": [
             "cultural"
         ],
-        "image_url": "img/events/cic1.JPG",
-        "content_url": "../gcc_events/portfolio-single.html"
+        "image_url": "/cu/gcc/img/events/cic1.JPG",
+        "content_url": "gcc_events/portfolio-single.html"
     },
     {
         "name": "Mid-Autumn Festival", 
@@ -56,15 +56,15 @@
             "social",
             "cultural"
         ],
-        "image_url": "img/events/midautumn1.jpg",
-        "content_url": "../gcc_events/portfolio-single.html"
+        "image_url": "/cu/gcc/img/events/midautumn1.jpg",
+        "content_url": "gcc_events/portfolio-single.html"
     },
     {
         "name": "GCC Info Session", 
         "type": [
             "social"
         ],
-        "image_url": "img/events/info2.jpeg",
-        "content_url": "../gcc_events/portfolio-single.html"
+        "image_url": "/cu/gcc/img/events/info2.jpeg",
+        "content_url": "gcc_events/portfolio-single.html"
     }
 ]

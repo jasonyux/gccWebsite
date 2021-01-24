@@ -1,20 +1,20 @@
 {
     "2020-01-01": {
-        "thumb_nail": "../img/events/night1.JPG",
+        "thumb_nail": "/cu/gcc/img/events/night1.JPG",
         "title": "Chinese Night Market",
         "text": "TEST TEST TEST TEST TEST",
         "next": "2020-02-01",
         "prev": "2020-03-01"
     },
     "2020-02-01": {
-        "thumb_nail": "../img/events/bitcoin2.jpeg",
+        "thumb_nail": "/cu/gcc/img/events/bitcoin2.jpeg",
         "title": "Bitcoin Forum",
         "text": "TEST TEST TEST TEST TEST",
         "next": "2020-03-01",
         "prev": "2020-01-01"
     },
     "2020-03-01": {
-        "thumb_nail": "../img/events/frisbee1.jpeg",
+        "thumb_nail": "/cu/gcc/img/events/frisbee1.jpeg",
         "title": "Frisbee Bonding",
         "text": "TEST TEST TEST TEST TEST",
         "next": "2020-01-01",
