@@ -40,7 +40,8 @@ function create_profile(info){
   return profile_card;
 }
 
-fetch('../assets/e-board.json')
+// changed path due to deployment
+fetch('./assets/e-board.json')
   .then(res => res.json())
   .then(data => {
       eboard_list = data.e_board;
