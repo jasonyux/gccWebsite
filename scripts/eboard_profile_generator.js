@@ -41,7 +41,7 @@ function create_profile(info){
 }
 
 // changed path due to deployment
-fetch('./assets/e-board.json')
+fetch('assets/e-board.json')
   .then(res => res.json())
   .then(data => {
       eboard_list = data.e_board;

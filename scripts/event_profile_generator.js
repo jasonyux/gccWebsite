@@ -29,7 +29,7 @@ function create_profile(info) {
     return event_card;
 }
 
-fetch('../assets/events.json')
+fetch('assets/events.json')
     .then(res => res.json())
     .then(data => {
         var full_container = document.getElementById("event-full-container");

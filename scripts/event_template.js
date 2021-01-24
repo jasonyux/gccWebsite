@@ -6,7 +6,7 @@ const timestamp = urlParams.get('timestamp');
 
 var event_list;
 // changed path due to deployment
-fetch('./assets/sample_events.json')
+fetch('assets/sample_events.json')
 .then(res => res.json())
 .then(data => {
     event_list = data;
