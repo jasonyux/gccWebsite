@@ -1,4 +1,4 @@
-import insert_profiles from './profile_generator.js';
+import insert_profiles,{production_root} from './profile_generator.js';
 
 var eboard_list;
 
@@ -11,7 +11,7 @@ function create_profile(info){
   image_team.className = "image-team";
 
   var profile_image = document.createElement("img");
-  profile_image.src = `${info.image}`;
+  profile_image.src = `${production_root}${info.image}`;
 
   var hover = document.createElement("div");
   hover.className = "hover";
@@ -41,7 +41,7 @@ function create_profile(info){
 }
 
 // changed path due to deployment
-fetch('assets/e-board.json')
+fetch(`${production_root}assets/e-board.json`)
   .then(res => res.json())
   .then(data => {
       eboard_list = data.e_board;

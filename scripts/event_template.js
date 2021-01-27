@@ -1,3 +1,4 @@
+import {production_root} from './profile_generator.js'
 const LATEST = 3;
 
 const queryString = window.location.search;
@@ -6,7 +7,7 @@ const timestamp = urlParams.get('timestamp');
 
 var event_list;
 // changed path due to deployment
-fetch('/cu/gcc/assets/sample_events.json')
+fetch(`${production_root}assets/sample_events.json`)
 .then(res => res.json())
 .then(data => {
     event_list = data;
@@ -35,7 +36,7 @@ function create_event_page(info){
         main_text.textContent = info.text;
 
         var thumb_nail = document.getElementById('thumbnail');
-        thumb_nail.src = info.thumb_nail;
+        thumb_nail.src = `${production_root}${info.thumb_nail}`;
 
         var prev_event = document.getElementById('prev-event');
         prev_event.href = `./portfolio-single.html?timestamp=${info.prev}`;
@@ -49,9 +50,9 @@ function create_event_page(info){
     var latest_timestamps = get_latest_event();
     for(let i=0; i<latest_projects.children.length; i++){
         var project = latest_projects.children[i]; // gets the div "<div class="col-md-4 item">"
-        project.children[0].href = `/cu/gcc/gcc_events/portfolio-single.html?timestamp=${latest_timestamps[i]}`;
-        project.children[0].children[0].src = event_list[latest_timestamps[i]].thumb_nail;
-        project.children[1].href = `/cu/gcc/gcc_events/portfolio-single.html?timestamp=${latest_timestamps[i]}`;
+        project.children[0].href = `${production_root}gcc_events/portfolio-single.html?timestamp=${latest_timestamps[i]}`;
+        project.children[0].children[0].src = `${production_root}${event_list[latest_timestamps[i]].thumb_nail}`;
+        project.children[1].href = `${production_root}gcc_events/portfolio-single.html?timestamp=${latest_timestamps[i]}`;
         project.children[1].children[0].textContent = event_list[latest_timestamps[i]].title;
     }
 }

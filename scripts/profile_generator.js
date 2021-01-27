@@ -4,3 +4,5 @@ export default function insert_profiles(containerID, list, wrapper) {
       teamGridDiv.appendChild(wrapper(info));
   }
 }
+
+export const production_root = '/'

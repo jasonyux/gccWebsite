@@ -4,7 +4,7 @@
         "type": [
             "professional"
         ], 
-        "image_url": "/cu/gcc/img/events/summit1.jpg",
+        "image_url": "img/events/summit1.jpg",
         "content_url": "gcc_events/portfolio-single.html?timestamp=2020-01-01"
     },
     {
@@ -13,7 +13,7 @@
             "professional",
             "social"
         ],  
-        "image_url": "/cu/gcc/img/events/bitcoin2.jpeg",
+        "image_url": "img/events/bitcoin2.jpeg",
         "content_url": "gcc_events/portfolio-single.html"
     },
     {
@@ -21,7 +21,7 @@
         "type": [
             "social"
         ], 
-        "image_url": "/cu/gcc/img/events/frisbee1.jpeg",
+        "image_url": "img/events/frisbee1.jpeg",
         "content_url": "gcc_events/portfolio-single.html"
     },
     {
@@ -30,7 +30,7 @@
             "social",
             "cultural"
         ], 
-        "image_url": "/cu/gcc/img/events/chinese1.JPG",
+        "image_url": "img/events/chinese1.JPG",
         "content_url": "gcc_events/portfolio-single.html"
     },
     {
@@ -39,7 +39,7 @@
             "social",
             "cultural"
         ],
-        "image_url": "/cu/gcc/img/events/night1.JPG",
+        "image_url": "img/events/night1.JPG",
         "content_url": "gcc_events/portfolio-single.html"
     },
     {
@@ -47,7 +47,7 @@
         "type": [
             "cultural"
         ],
-        "image_url": "/cu/gcc/img/events/cic1.JPG",
+        "image_url": "img/events/cic1.JPG",
         "content_url": "gcc_events/portfolio-single.html"
     },
     {
@@ -56,7 +56,7 @@
             "social",
             "cultural"
         ],
-        "image_url": "/cu/gcc/img/events/midautumn1.jpg",
+        "image_url": "img/events/midautumn1.jpg",
         "content_url": "gcc_events/portfolio-single.html"
     },
     {
@@ -64,7 +64,7 @@
         "type": [
             "social"
         ],
-        "image_url": "/cu/gcc/img/events/info2.jpeg",
+        "image_url": "img/events/info2.jpeg",
         "content_url": "gcc_events/portfolio-single.html"
     }
 ]

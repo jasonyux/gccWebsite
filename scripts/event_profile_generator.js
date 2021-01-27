@@ -1,4 +1,4 @@
-import insert_profiles from './profile_generator.js';
+import insert_profiles,{production_root} from './profile_generator.js';
 
 /* generates and returns a div element from info (image, name, position, description) */
 function create_profile(info) {
@@ -7,10 +7,10 @@ function create_profile(info) {
     event_card.className = `col-6 col-md-6 col-lg-3 item ${invovled_teams}`
 
     var event_img = document.createElement("img");
-    event_img.src = `${info["image_url"]}`;
+    event_img.src = `${production_root}${info["image_url"]}`;
 
     var anchor = document.createElement("a");
-    anchor.href = info["content_url"];
+    anchor.href = `${production_root}${info["content_url"]}`;
     anchor.className = "hover";
 
     var title = document.createElement("h5");
