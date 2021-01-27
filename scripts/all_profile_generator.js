@@ -12,6 +12,9 @@ function create_profile(info){
 
   var profile_image = document.createElement("img");
   profile_image.src = `${info.image}`;
+  /* image path in production
+   * profile_image.src = `
+   */
 
   var hover = document.createElement("div");
   hover.className = "hover";
