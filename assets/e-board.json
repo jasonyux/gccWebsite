@@ -1,6 +1,6 @@
 {
     "e_board":[
-        {"role": "President", "name":"Shuyao Wang", "image":"img/members/Shuyao Wang.JPG", "description": "Life is serendipity."},
+        {"role": "President", "name":"Shuyao Wang", "image":"img/members/Shuyao Wang2.JPG", "description": "Life is serendipity."},
         {"role": "VP of Pre-professional Team", "name":"Yibing Chen", "image":"img/members/Yibing Chen.JPG", "description": "Interested in the intersection between technology and social good, Yibing sees entrepreneurship as a vehicle to maximize her impact. Outside of professional life, she's always down to try new experiences, and so far she's fallen in love with music, skiing, and dancing."},
         {"role": "VP of Social Team", "name":"Karen Zhu", "image":"img/members/Karen_Zhu.jpg", "description": "Karen is a sophomore at Barnard College of Columbia University majoring in Computer Science. She is passionate about using technology and innovation for positive social change."},
         {"role": "VP of Media Team", "name":"Lucy Yang", "image":"img/members/Lucy Yang.JPG", "description": "The hard and bitter times will end in joy; if it hasn’t, the best is yet to come."},
@@ -20,6 +20,7 @@
         {"role": "Social Team Member", "name":"Yuxuan Hu (Mike)", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
         {"role": "Social Team Member", "name":"Kaiwen Zhang", "image":"img/members/Kaiwen Zhang.jpg", "description": "DESCRIPTION"},
         {"role": "Social Team Member", "name":"Victoria Yang", "image":"img/members/Victoria Yang.jpeg", "description": "Live simple."},
+        {"role": "Preprofessional Team Member", "name":"Jack Shi", "image":"img/members/Jack Shi.jpg", "description": "When something is important enough, you do it even if the odds are not in your favor."},
         {"role": "Preprofessional Team Member", "name":"Alex Wu", "image":"img/members/Alex Wu.jpg", "description": "To believe in all that’s good and loved; To appreciate all that’s known and shared."},
         {"role": "Preprofessional Team Member", "name":"Tao Yi", "image":"img/members/Yi Tao.jpeg", "description": "Yi Tao has a wide range of interests including science, technology, history and business. He is currently working at CASIA (Institute of Automation, Chinese Academy of Sciences), and his research interests are robotics and AI. He likes bodybuilding, and it is his way to take a rest from work."},
         {"role": "Preprofessional Team Member", "name":"Jamie", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
