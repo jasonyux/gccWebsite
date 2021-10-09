@@ -5,4 +5,5 @@ export default function insert_profiles(containerID, list, wrapper) {
   }
 }
 
-export const production_root = '/cu/gcc/'
+// export const production_root = '/cu/gcc/'
+export const production_root = '/'
