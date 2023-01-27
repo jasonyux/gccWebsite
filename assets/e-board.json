@@ -8,11 +8,11 @@
         {"role": "VP of External / Internal Team; Treasurer", "name":"Linda Pang", "image":"img/members/Placeholder.jpg", "description": ""}
     ],
     "ocm":[
-        {"role": "Preprofessional Team", "name": "Elena Fang", "image":"img/members/Elena Jingrui Fang.jpeg", "description": "The best is yet to come."},
-        {"role": "Preprofessional Team", "name": "Sky Sun", "image":"img/members/Sky Mingyang Sun.png", "description": "Sky is a freshman at SEAS studying Computer Science and Sustainable Engineering. He hopes to accelerate humanity�s transition from an extractive relationship with nature to a harmonious one."},
-        {"role": "Preprofessional Team", "name": "Tina Deng", "image": "img/members/Tina Deng.jpg", "description": "<甜甜圈>生活有时会出现一个大洞/我们可以只看甜的部分。"},
-        {"role": "Preprofessional Team", "name": "Yunzhe Nie", "image": "img/members/Yunzhe Nie.jpeg", "description": "Inspire conversation between China and the rest of the world."},
-        {"role": "Social Team Member", "name":"Andrew Zhang", "image":"img/members/Andrew_Zhang.jpg", "description": "Never fade away."},
+        {"role": "Preprofessional Team Member", "name": "Elena Fang", "image":"img/members/Elena Jingrui Fang.jpeg", "description": "The best is yet to come."},
+        {"role": "Preprofessional Team Member", "name": "Sky Sun", "image":"img/members/Sky Mingyang Sun.png", "description": "Sky is a freshman at SEAS studying Computer Science and Sustainable Engineering. He hopes to accelerate humanity�s transition from an extractive relationship with nature to a harmonious one."},
+        {"role": "Preprofessional Team Member", "name": "Tina Deng", "image": "img/members/Tina Deng.jpg", "description": "<甜甜圈>生活有时会出现一个大洞/我们可以只看甜的部分。"},
+        {"role": "Preprofessional Team Member", "name": "Yunzhe Nie", "image": "img/members/Yunzhe Nie.jpeg", "description": "Inspire conversation between China and the rest of the world."},
+        {"role": "Social & Cultural Team Member", "name":"Andrew Zhang", "image":"img/members/Andrew_Zhang.jpg", "description": "Never fade away."},
         {"role": "Social & Cultural Team Member", "name": "Anni Zhang", "image": "img/members/Anni Zhang.jpeg", "description": "好好学习 天天向上"},
         {"role": "Social & Cultural Team Member", "name": "April Lin 林稚玮", "image": "img/members/April Lin.jpeg", "description": ": )"},
         {"role": "Social & Cultural Team Member", "name": "Grace Zhou", "image": "img/members/Grace Yuting Zhou.jpg", "description": "Learn to be disciplined when you are unmotivated."},
