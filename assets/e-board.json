@@ -33,39 +33,5 @@
         {"role": "External / Internal Team Member", "name": "Victoria Geh", "image": "img/members/Victoria Y Geh.jpg", "description": "Caffeine addict and huge food enthusiast."},
         {"role": "External / Internal Team Member", "name": "Victoria Li", "image": "img/members/Ziwei Li.jpeg", "description": "I am a junior at Barnard College of Columbia University, studying economics with a concentration in environmental science/sustainable development."}
     ]
-    
-    "past members":[
-        {"role": "President", "name":"Shuyao Wang", "image":"img/members/Shuyao_Wang2.jpg", "description": "Life is serendipity."},
-        {"role": "VP of Pre-professional Team", "name":"Yibing Chen", "image":"img/members/Yibing Chen.JPG", "description": "Interested in the intersection between technology and social good, Yibing sees entrepreneurship as a vehicle to maximize her impact. Outside of professional life, she's always down to try new experiences, and so far she's fallen in love with music, skiing, and dancing."},
-        {"role": "VP of Social Team", "name":"Karen Zhu", "image":"img/members/Karen_Zhu.jpg", "description": "Karen is a sophomore at Barnard College of Columbia University majoring in Computer Science. She is passionate about using technology and innovation for positive social change."},
-        {"role": "VP of Media Team", "name":"Lucy Yang", "image":"img/members/Lucy Yang.JPG", "description": "The hard and bitter times will end in joy; if it hasn’t, the best is yet to come."},
-        {"role": "VP of Internal Relations Team", "name":"Victoria Geh", "image":"img/members/Victoria Geh.jpg", "description": "Currently on a gap year, Victoria is working as a part-time analyst at a boutique investment advisory firm. Growing up in Shanghai, Zurich, and New York City, Victoria has experience in research, digital marketing, and tech. Outside of GCC, she is a Columbia Spectator Newsroom Developer and an AKPsi brother. She enjoys reading the Morning Brew and runs her own bullet journal Youtube and Instagram (@mohtivations)."},
-        {"role": "Treasurer", "name":"James Wang", "image":"img/members/James_Wang.jpg", "description": "James is a junior at Columbia Engineering studying Computer Science and Applied Mathematics. He is interested in the intersection between healthcare and technology, and innovates by combining the frontiers of academia and his entrepreneurial spirit. In his free time, James enjoys playing poker, skiing, and flying drones."},
-        {"role": "Social Team Member", "name":"Ryan Hou", "image":"img/members/Ryan Hou.JPG", "description": "Struggling to live through an age without indoor dining"},
-        {"role": "Social Team Member", "name":"Tim Lyu", "image":"img/members/Tim_Lyu.jpeg", "description": "DESCRIPTION"},
-        {"role": "Social Team Member", "name":"Portial Wang", "image":"img/members/Portia Wang.jpg", "description": "DESCRIPTION"},
-        {"role": "Social Team Member", "name":"Lorraine Jiang", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
-        {"role": "Social Team Member", "name":"Alexandria Yao", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
-        {"role": "Social Team Member", "name":"Brian Yang", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
-        {"role": "Social Team Member", "name":"Yuxuan Hu (Mike)", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
-        {"role": "Social Team Member", "name":"Victoria Yang", "image":"img/members/Victoria Yang.jpeg", "description": "Live simple."},
-        {"role": "Social Team Member", "name":"Hayden Liu", "image":"img/members/Hayden_Liu.jpg", "description": "Exploration fuels Hayden. Any academic subjects, arts, and sports interest him. At school, he is a member of the Columbia men's swim team. For professional career, he is currently interested in consulting and entreprenuership."},
-        {"role": "Preprofessional Team Member", "name":"Jack Shi", "image":"img/members/Jack Shi.jpg", "description": "When something is important enough, you do it even if the odds are not in your favor."},
-        {"role": "Preprofessional Team Member", "name":"Alex Wu", "image":"img/members/Alex Wu.jpg", "description": "To believe in all that’s good and loved; To appreciate all that’s known and shared."},
-        {"role": "Preprofessional Team Member", "name":"Tao Yi", "image":"img/members/Yi Tao.jpeg", "description": "Yi Tao has a wide range of interests including science, technology, history and business. He is currently working at CASIA (Institute of Automation, Chinese Academy of Sciences), and his research interests are robotics and AI. He likes bodybuilding, and it is his way to take a rest from work."},
-        {"role": "Preprofessional Team Member", "name":"Jamie", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
-        {"role": "Preprofessional Team Member", "name":"Leo", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
-        {"role": "Preprofessional Team Member", "name":"Skyler Xu", "image":"img/members/Skyler_Xu.jpg", "description": "There are two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."},
-        {"role": "Preprofessional Team Member", "name":"Yunlan Li", "image":"img/members/Yunlan Li.jpg", "description": "Live the moment."},
-        {"role": "Preprofessional Team Member", "name":"Xiao Yu", "image":"img/members/Xiao Yu.jpg", "description": "Life is like a catapult. Sometimes, you need to pull back so that you can fly higher."},
-        {"role": "Preprofessional Team Member", "name":"Ariel Tao", "image":"img/members/Ariel Tao.jpg", "description": "Make an impact!"},
-        {"role": "Preprofessional Team Member", "name":"Tiffany Lau", "image":"img/members/Tiffany Lau.jpeg", "description": "Nobody's life is filled with perfect little moments. And if it were, they wouldn't be perfect little moments. They would just be normal. How would you ever know happiness if you never experienced downs?"},
-        {"role": "Media Team Member", "name":"Amy Wang", "image":"img/members/Placeholder.jpg", "description": "Find eternity in each moment."},
-        {"role": "Media Team Member", "name":"Alice Qin", "image":"img/members/Placeholder.jpg", "description": "Live in the sunshine, swim the sea, drink the wild air."},
-        {"role": "Media Team Member", "name":"Alfred Sze", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
-        {"role": "Internal/External Team Member", "name":"Venice Hartono", "image":"img/members/Placeholder.jpg", "description": "Be fearless in the pursuit of what sets your soul on fire"},
-        {"role": "Internal/External Team Member", "name":"Crystal Xie", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"},
-        {"role": "Internal/External Team Member", "name":"Lucia (Zeyi) Liu", "image":"img/members/Placeholder.jpg", "description": "Zeyi is a junior in SEAS studying Computer Science and Applied Math. She's interested in Robot learning and computer vision. Feel free to reach out to her on the topics! In her spare time, she likes hiking, playing the piano, and reading."},
-        {"role": "Internal/External Team Member", "name":"Zerui Tian", "image":"img/members/Placeholder.jpg", "description": "DESCRIPTION"}
-    ]
+
 }
