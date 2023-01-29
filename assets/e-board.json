@@ -25,7 +25,7 @@
         {"role": "Media Team Member", "name": "Hera Zhang ", "image": "img/members/Hera Zhang.jpeg", "description": "Vegetarian by choice due to ecological reasons and also because I somehow learned that I may actually be allergic to red meat."},
         {"role": "Media Team Member", "name": "Monica Wu", "image": "img/members/Yuemeng Wu.JPG", "description": "i love peaches! <3"},
         {"role": "Media Team Member", "name": "Xinhui Lin", "image": "img/members/Xinhui Lin.png", "description": "We are all in the gutter, but some of us are looking at the stars."},
-        {"role": "External / Internal Team Member", "name": "Carrie Jiang ", "image": "img/members/Shuer Jiang.jpeg", "description": " I'm a certified yoga therapist! "},
+        {"role": "External / Internal Team Member", "name": "Carrie Jiang ", "image": "img/members/Shuer Jiang.jpeg", "description": " I'm a certified yoga therapist!"},
         {"role": "Preprofessional Team Member", "name":"David Liu", "image":"img/members/David Qian Liu.jpeg", "description": "Think Different."},
         {"role": "External / Internal Team Member", "name": "Luqi Wu (Eva)", "image":"img/members/Eva Wu.jpg", "description": "Capture the little moments that make us significant."},
         {"role": "External / Internal Team Member", "name": "Melanie Gong", "image": "img/members/Melanie Gong.jpeg", "description": "I have two very cute dogs!!"},
@@ -40,8 +40,7 @@
         {"role": "VP of Social Team", "name":"Karen Zhu", "image":"img/members/Karen_Zhu.jpg", "description": "Karen is a sophomore at Barnard College of Columbia University majoring in Computer Science. She is passionate about using technology and innovation for positive social change."},
         {"role": "VP of Media Team", "name":"Lucy Yang", "image":"img/members/Lucy Yang.JPG", "description": "The hard and bitter times will end in joy; if it hasn’t, the best is yet to come."},
         {"role": "VP of Internal Relations Team", "name":"Victoria Geh", "image":"img/members/Victoria Geh.jpg", "description": "Currently on a gap year, Victoria is working as a part-time analyst at a boutique investment advisory firm. Growing up in Shanghai, Zurich, and New York City, Victoria has experience in research, digital marketing, and tech. Outside of GCC, she is a Columbia Spectator Newsroom Developer and an AKPsi brother. She enjoys reading the Morning Brew and runs her own bullet journal Youtube and Instagram (@mohtivations)."},
-        {"role": "Treasurer", "name":"James Wang", "image":"img/members/James_Wang.jpg", "description": "James is a junior at Columbia Engineering studying Computer Science and Applied Mathematics. He is interested in the intersection between healthcare and technology, and innovates by combining the frontiers of academia and his entrepreneurial spirit. In his free time, James enjoys playing poker, skiing, and flying drones."}
-
+        {"role": "Treasurer", "name":"James Wang", "image":"img/members/James_Wang.jpg", "description": "James is a junior at Columbia Engineering studying Computer Science and Applied Mathematics. He is interested in the intersection between healthcare and technology, and innovates by combining the frontiers of academia and his entrepreneurial spirit. In his free time, James enjoys playing poker, skiing, and flying drones."},
         {"role": "Social Team Member", "name":"Ryan Hou", "image":"img/members/Ryan Hou.JPG", "description": "Struggling to live through an age without indoor dining"},
         {"role": "Social Team Member", "name":"Tim Lyu", "image":"img/members/Tim_Lyu.jpeg", "description": "DESCRIPTION"},
         {"role": "Social Team Member", "name":"Portial Wang", "image":"img/members/Portia Wang.jpg", "description": "DESCRIPTION"},
